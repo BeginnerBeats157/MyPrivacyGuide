@@ -10,4 +10,4 @@ For computers like laptops and desktops: Make sure to __enable Full-Disk Encrypt
 
 __Linux__:
 
-1. ! [Linux Mint Logo](https://www.webopedia.com/wp-content/uploads/2012/01/Linux-Mint-Logo.png)
+1. ![Linux Mint Logo](https://www.webopedia.com/wp-content/uploads/2012/01/Linux-Mint-Logo.png)
