@@ -10,4 +10,7 @@ For computers like laptops and desktops: Make sure to __enable Full-Disk Encrypt
 
 __Linux__:
 
-1. 
+![Linux Mint Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Linux Mint](https://linuxmint.com/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
+Description: Linux Mint is a Linux-based operating system, based out of Debian and Ubuntu, it is designed to be modern, elegant and comfortable operating system which is both powerful and easy to use. A best alternative to Microsoft Windows. However, unlike Windows, it doesn't collect telementry and it doesn't spy on you, as they are classified as "Privacy-Respecting" Linux Distro. They are also a beginner friendly distro.
+
