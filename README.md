@@ -13,7 +13,7 @@ Everything is Subject to change.
 
 
 
-Email: Incognition-General@protonmail.com
+Email: Incognition-Communications@protonmail.com
 Session: 059751635b7d0a8e3acf38b25baf015535ede3a06733e283bec9ecf6c65ae47141
 
 Inspired by: Privacy.Awiki.org / The Raccoon Privacy 
