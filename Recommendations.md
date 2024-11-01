@@ -12,5 +12,17 @@ __Linux__:
 
 ![image](https://github.com/user-attachments/assets/4b11075c-c5a3-4b2c-a93c-fc27910bedf1)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Linux Mint](https://linuxmint.com/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-Description: Linux Mint is a Linux-based operating system, based out of Debian and Ubuntu, it is designed to be modern, elegant and comfortable operating system which is both powerful and easy to use. A best alternative to Microsoft Windows. However, unlike Windows, it doesn't collect telementry and it doesn't spy on you, as they are classified as "Privacy-Respecting" Linux Distro. They are also a beginner friendly distro.
+Description: Linux Mint is a Linux-based Operating System/Distro/Distribution, based out of Debian and Ubuntu, it is designed or produced to be working as a "out of the box" while also being the most beginner friendly distro. Unlike Windows, it doesn't collect telementry data, nor does it have a spyware, while also being lightweight.
 
+![Qubes OS Logo](https://github.com/user-attachments/assets/1ebd1a69-f960-424b-938a-93faeb4b916f)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Qubes OS](https://www.qubes-os.org/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
+_Advanced Users Only_
+Description: Qubes OS is an operating system focused on security and sandboxing. Being based on Linux and Xen (Virtual Machine Hypervisor), it's built out of securly-isolated compartments called "Qubes". These "Qubes" act as a Virtual Machine (while still being secure and using Xen), as a way to perform sensitive tasks or activities. In the case of a "Qube" getting infected, it can be shutdown and can be reused again without a virus. Each program (Software) runs completely isolated on it's own "Qube" for better security. Qubes OS is better used with Whonix.
+
+__Anonymity-Focused Operating Systems (Linux)__
+
+![Whonix Logo](https://github.com/user-attachments/assets/d581fad5-3b4f-4af6-974c-5054d676621f)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Linux Mint](https://linuxmint.com/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
+Description:
