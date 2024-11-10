@@ -1,44 +1,59 @@
-# Recommendations Guide
+# Recommendations (Endorsement) Guide
+(⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀)
+This is my list of privacy tools (software) that will help you remain private online. Some of them are taken from their official repositories[^1], while others are chosen and reviewed, by me. There is actually _<ins>no silver bullet</ins>_ in regards to privacy, security, or anonymity, but it is believed that _<ins>these tools (software) will make tracking you online a (very) difficult task</ins>_.
 
-This is the list of privacy tools, and software that will help you remain private/anonymous online. It has been copied and added new and old privacy tools. There is actually **no silver bullet** when it comes to privacy, security, and anonymity. However, _it is belived that these listed software(s) will make you're online/internet activity tracking (very) difficult_.
+> [!NOTE]
+> Most of the contents are either written by me or taken from a source. Remember that this is solely based on the official Privacy Raccoon website, and most of the time making another .md file regarding https://github.com/pluja/awesome-privacy is coming soon and might take some time to write it all down and do some corrections. Research is on-going and will need a specific review, depending on my experience or during my review or research. Some are removed (either entirely or a specific reason), while some are added into the mix, or changed. (Not this page, but for another page.)
 
-Want to read an Offline Version? __Work In Progress__
+## Table of Contents
 
-## Computer Operating System
+1. Operating Systems
+   - Linux
+   - Privacy-Focused (Anonymous) Linux Distro(s)
+   - Berkeley Software Distribution (Unix)
+2. Mobile (Android) Operating System
+   - Linux Phones
+   - Custom ROMs
+3. Router Firmware
+4. Wed Browser
+   - Browser Addons
+   - Mobile Browsers
+5. Electronic Mail
+   - Email Clients
+6. Communication
+   - Anonymous Communication
+   - Group Chat
+   - Voice and Video
+7. DNS Resolver
+8. VPN Provider
+9. Hosting and Domain
+   - Hosting
+   - Domain
+10. "Cloud" Storage
+11. Video Hosting
+12. Private Frontend
+13. Password Managers
+14. DNS Clients
+15. Anonymizing Networks
+16. File Encryption
+17. File Sharing and Sync
+    - File Sharing
+    - Sync
+18. NotePads
+19. MetaData Removal
+20. XMPP Clients
+21. IRC Clients
+22. Torrent Clients
+23. Download Managers
+24. RSS Readers
+25. Backups
+26. Gemini
+27. Gopher
+    - Gopher Browser
+    - Gopher Server
 
-For computers like laptops and desktops: Make sure to __enable Full-Disk Encryption__ (FDE), in case of __Thieft__, __Cyber-Attack__, or from __Authorities__. To enable it you are gonna need to do on on the Installer, and create a Security Key with over __5-7 Words__ (PassPhrase, not PassWords).  
+## Linux Distribution
 
-__Linux__:
+ 
 
-![image](https://github.com/user-attachments/assets/4b11075c-c5a3-4b2c-a93c-fc27910bedf1)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Linux Mint](https://linuxmint.com/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-Description: Linux Mint is a Linux-based Operating System/Distro/Distribution, based out of Debian and Ubuntu, it is designed or produced to be working as a "out of the box" while also being the most beginner friendly distro. Unlike Windows, it doesn't collect telementry data, nor does it have a spyware, while also being lightweight.
-
-![Qubes OS Logo](https://github.com/user-attachments/assets/1ebd1a69-f960-424b-938a-93faeb4b916f)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Qubes OS](https://www.qubes-os.org/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-_Advanced Users Only_
-Description: Qubes OS is an operating system focused on security and sandboxing. Being based on Linux and Xen (Virtual Machine Hypervisor), it's built out of securly-isolated compartments called "Qubes". These "Qubes" act as a Virtual Machine (while still being secure and using Xen), as a way to perform sensitive tasks or activities. In the case of a "Qube" getting infected, it can be shutdown and can be reused again without a virus. Each program (Software) runs completely isolated on it's own "Qube" for better security. Qubes OS is better used with Whonix. It's also based on Fedora.
-
-__Anonymity-Focused Operating Systems (Linux)__
-
-![Whonix Logo](https://github.com/user-attachments/assets/d581fad5-3b4f-4af6-974c-5054d676621f)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Whonix](https://www.whonix.org/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-Description: Whonix is a Linux-based Operating System, based out of hardened Debian (KickSecure OS), it is primarily used in Virtual Machines, such as VirtualBox or Virtual Machine Manager (Aka KVM frontend), as the ISO (for a full operating system experience) is still under-development. Whonix Routes all Traffic through the Tor Network. It runs on **two (2)**, virtual machines: The Whonix Gateway and The Whonix Workstation. Let me explain: Whonix Workstation acts as a Workstation for a Computer Monitor, it connects to the Internet solely through the Server (Aka the Whonix Gateway), which routes all it's connections to the Tor Network. If the Workstation ever gets infected with a malware, then the Whonix Gateway will not be infected, instead its isolated and connected through the Workstation. Your IP Address will never get compermised via Gateway.
-
-![Tails OS Logo](https://github.com/user-attachments/assets/5f5802eb-c1f6-4248-99a5-b9ce8668a9f0)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [Tails OS](https://tails.net/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-Description: Tails OS is a Linux-based Operating System, based on Debian (Previously Gentoo), it is a Popular Anonymous and Privacy-Focused operating system on the DistroWatch and among Privacy enthusiasts/Activists, it is solely used for Sensitive Tasks, and used for Anonymous Browsing, it is also recommended by the DarkNet Bible for DarkNet Activities such as Purchasing illegal meterials (Which I highly discourage this activity, do not sell or buy drugs as that is **NOT** the goal here). Anyway, Tails is actually a Live-operating system, meaning it can run via a USB Stick (8 or 16 gigs of USB storage is recommended), it routes all it's connections through the Tor Network. It is (again) used on a USB stick and never writes anything on a Hard-Drive (Because it only runs on RAM, not the Hard-Drive itself), it also resets itself after each reboot (Meaning that, when you log out, and come back again, you won't be able to see any traces or files on that Operating System), leaving no traces of evidence of any kind of activity over you're session. Beaware: That it isn't as robust with security like Whonix is (depending on your threat model), so be careful of malware that you might install on.
-
-![KickSecure OS Logo](https://github.com/user-attachments/assets/664ca110-dc20-4d44-9016-01b8ab06d6fc)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▬▬▬▬▬▬▬▬▬▬▬▬▬▬[█ | Δ [KickSecure OS](https://www.kicksecure.com/) Δ | █]▬▬▬▬▬▬▬▬▬▬▬▬▬▬                                    
-Description: KickSecure OS is a Linux-based Operating System, based on Debian (Which is now hardened). It also has a Lock icon, which routes all it's connections via the Tor Network. It is the most Secure, Anonymous operating system as it is the most security robust OS out there. Your IP Address cannot be compermised, nor you're identity. Both KickSecure and Whonix are also part of the endorsement program from Free Software Foundation, and Open Source Initiative.
-
-__Berkeley Software Distribution__
-
-![FreeBSD Logo](https://github.com/user-attachments/assets/80f40cf2-9c13-484c-b9d2-04dbef34b935)
-
-
+[^1]: Please refer to https://an_g6.codeberg.page/ and https://codeberg.org/ThePrivacyRaccoon/website/src/branch/master/index.html
