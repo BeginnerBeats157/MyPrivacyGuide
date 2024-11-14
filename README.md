@@ -1,22 +1,17 @@
-# Welcome to "MyPrivacyGuide" dear viewer!
+# The "MyPrivacyGuide" Wikipedia
 
-Since you came to this repository, then welcome. In this repository, feel free to book mark this page and get yourself educate for **once and for all**. This is an inspiration of the original website named "Privacy Raccoon" and it's supposed to be a continuation of The Privacy Raccoon and "an_g6" website. And by all means necessary, it licensed under the CC0 1.0 (Going to change the license), however I am by no means responsible for any copyright violations but it is an act of contribution as a way to create a continuation of a now defunct website.
+Welcome to this website, a full on wikipedia regarding all the information about privacy, digital and physical privacy, human error changes, endorsements or recommendations, and overall storing or archiving certain information, from other wikis in general. Also serving as a news place. This project is inspired by: The Raccoon Privacy, The EFF, The PrivacyGuides (But better), PrivacyGuides.io (also better), and Pluja's "Awsome Privacy". My goal here is to provide accurate, informative, and honest/truthful information and improve the articles and recommendations, from various sources, to websites, to media news articles. I am not responsible for any copyright issues, the license's used in this page is under the CCO 1.0 license, feel free to fork, distrupute, copy, modify, and make it as you're own. If this page ever goes inactive or shut down then feel free to do so. These people are credited below for my passion project "MyPrivacyGuide" for the continuation and persistence of The Raccoon Privacy. Thank you for reading, and have a nice day/afternoon/evening/night user.
 
-There is no need for a donation as I do not think I will need it yet. Not as a Administrative Needs.
+No donations are needed, not as a administrative need for now.
 
-Report any mistakes, errors, grammar issues, and _other_ by creating an issue or by going to our Discord server: (not ready yet)
-If you have something to add, create a issue or by going to our discord.
-If you want to contribute to this github page then contact me via Eletronic Mail or via Session.
+Email: Incognition-Communications@protonmail.com (Due to its controversy, I am using this mail for a reason)
 
+Session: 059751635b7d0a8e3acf38b25baf015535ede3a06733e283bec9ecf6c65ae47141 
 
-Everything is Subject to change.
+Inspired by: Privacy.Awiki.org / The Raccoon Privacy, PrivacyGuides, PrivacyGuides.io, The EFF, and "Awsome Privacy" by Pluja.
 
+Credit: sir_reginald, an_g6, and Pluja.
 
+Original Sources: https://an_g6.codeberg.page/ https://web.archive.org/web/20240816175531/https://privacy.awiki.org/ (The original one is down), https://github.com/pluja/awesome-privacy
 
-Email: Incognition-Communications@protonmail.com
-Session: 059751635b7d0a8e3acf38b25baf015535ede3a06733e283bec9ecf6c65ae47141
-
-Inspired by: Privacy.Awiki.org / The Raccoon Privacy 
-Credit: sir_reginald and an_g6
-Original Sources: https://an_g6.codeberg.page/ and https://web.archive.org/web/20240816175531/https://privacy.awiki.org/ (The original one is down)
-Code Sources: https://codeberg.org/ThePrivacyRaccoon/website and https://codeberg.org/an_g6/pages 
+Code Sources: https://codeberg.org/ThePrivacyRaccoon/website https://codeberg.org/an_g6/pages https://github.com/pluja/awesome-privacy
